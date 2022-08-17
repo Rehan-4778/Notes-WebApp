@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pointer{
+  cursor: pointer;
+
+}
+
+.trash-color:hover{
+  color:rgb(255, 0, 0);
+
+}
+
+.edit-color:hover{
+  color:rgb(0, 172, 177);
+}
+
+/* .addBackground{
+  background-color:cadetblue;
+
+} */
